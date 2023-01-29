@@ -11,7 +11,7 @@ A classic snake game, now available on Android!
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/[username]/snake-game-android.git`
+1. Clone the repository: `https://github.com/cucerdariancatalin/Snake.git`
 2. Open the project in Android Studio
 3. Build and run the app on an emulator or physical device
 
